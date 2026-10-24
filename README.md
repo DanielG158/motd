@@ -17,4 +17,6 @@ Auto-installs SSH warning banners with IP/location detection on any server.
 ```bash
 curl -s https://raw.githubusercontent.com/DanielG158/motd/main/vm-motd-installer.sh | sudo bash
 ```
-
+```bash
+irm https://raw.githubusercontent.com/DanielG158/motd/main/win-motd-installer.ps1 | iex
+```
